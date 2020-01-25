@@ -12,7 +12,7 @@ __要 ffmpeg。__ `$ choco install ffmpeg` などでインストールしてお�
 
 ## Author
 
-[Neo](http://neo.s21.xrea.com/) ([@Neos21](https://twitter.com/Neos21))
+[Neo](http://neo.s21.xrea.com/)
 
 
 ## Links
